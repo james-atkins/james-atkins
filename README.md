@@ -1,11 +1,12 @@
 # Hi, I'm James 👋
 
 I'm a PhD candidate in Economics at Northwestern University, specializing in Industrial Organization.
-My work sits at the intersection of game theory, econometrics and computation, with a focus on competition and antitrust issues in media and digital markets.
-I use both structural modelling and causal inference to study these questions.
+I study pricing, demand, and competition in digital and media markets, combining structural demand and bargaining models with causal inference.
 
-Alongside my research, I enjoy building data-science and computational tools for economists, as well as working on software projects more generally.
+Alongside my research, I enjoy building data-science and computational tools for economists.
 
-**Languages:** R · Python · Julia · SQL
+**Languages:** Python · SQL · R · Julia · Go · Rust
+
+I care about reproducible computing and occasionally contribute to [nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajames-atkins).
 
 More about me: [www.jamesatkins.com](https://www.jamesatkins.com/)
